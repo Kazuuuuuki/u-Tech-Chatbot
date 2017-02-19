@@ -4,7 +4,6 @@ Created on Thu Feb 16 12:09:59 2017
 @author: kishiyama
 """
 
-import os
 import time
 from datetime import datetime
 from slackclient import SlackClient
